@@ -1,0 +1,6 @@
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\bin\Debug\CensoreLibrary.dll
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\bin\Debug\CensoreLibrary.pdb
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\obj\Debug\CensoreLibrary.csprojAssemblyReference.cache
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\obj\Debug\CensoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\obj\Debug\CensoreLibrary.dll
+C:\Users\Вувичка\source\repos\CensoreLibrary\CensoreLibrary\obj\Debug\CensoreLibrary.pdb
